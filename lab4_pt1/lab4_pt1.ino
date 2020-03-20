@@ -1,4 +1,5 @@
 // include the library code:
+//Authors: Jack Casey Campbell and Breann Thiessen
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 // initialize the library with the numbers of the interface pins
